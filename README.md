@@ -29,7 +29,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyde-mary&show_icons=true&locale=en" alt="hyde-mary" style="width: 450px; height: 200px; object-fit: fill;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyde-mary&show_icons=true&locale=en&layout=compact" alt="hyde-mary" style="width: 450px; height: 200px; object-fit: fill;" />
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyde-mary&show_icons=true&locale=en" alt="hyde-mary"" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyde-mary&show_icons=true&locale=en&layout=compact" alt="hyde-mary"" />
 </div>
