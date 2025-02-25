@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hydemaryalzbayne@gmail.com**
 
-- ⚡ Fun fact **Both my passion and hobbies happens inside a personal computer! I love coding and I love gaming!**
+- ⚡ Fun fact **Both my passion and hobbies happen inside a personal computer! I love coding and I love gaming!**
 
 ---
 
