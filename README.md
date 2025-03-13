@@ -53,7 +53,15 @@
 
 ### 💬 Let's Connect
 - 📫 **Email:** [hydemaryalzbayne@gmail.com](mailto:hydemaryalzbayne@gmail.com)
-- ☕ **Support Me:** [Ko-fi](https://ko-fi.com/hydemary)
+
+---
+
+### ☕ Support Me
+<p align="center">
+  <a href="https://ko-fi.com/hydemary">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Buy Me a Coffee at ko-fi.com">
+  </a>
+</p>
 
 ---
 
