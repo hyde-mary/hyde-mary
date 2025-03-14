@@ -41,9 +41,9 @@
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-3A66DB?style=for-the-badge&logo=convex&logoColor=white)
 
 #### Headless CMS
-![Convex](https://img.shields.io/badge/Convex-3A66DB?style=for-the-badge&logo=convex&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
 #### Tools
