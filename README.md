@@ -11,7 +11,6 @@
 ---
 
 ### 📌 Currently...
-- 🔭 **Working on:** [Docufy](https://github.com/hyde-mary/docufy)
 - 🌱 **Learning:** Web Development (React & Next.js)
 - 🤝 **Looking to collaborate on:** Open-source projects or any interesting ideas!
 
